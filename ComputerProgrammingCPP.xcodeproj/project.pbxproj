@@ -8,6 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		5329A4681CBE8A8900A85E8A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4671CBE8A8900A85E8A /* main.cpp */; };
+		5329A4711CBE8BA400A85E8A /* string.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A46F1CBE8BA400A85E8A /* string.cpp */; };
+		5329A4741CBE926100A85E8A /* first.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4721CBE926100A85E8A /* first.cpp */; };
+		5329A4791CBE9E0300A85E8A /* second.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4781CBE9E0300A85E8A /* second.cpp */; };
+		5329A47B1CBEA07700A85E8A /* third.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A47A1CBEA07700A85E8A /* third.cpp */; };
+		5329A47D1CBEEBE600A85E8A /* fourth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A47C1CBEEBE600A85E8A /* fourth.cpp */; };
+		5329A47F1CBF104F00A85E8A /* fifth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A47E1CBF104F00A85E8A /* fifth.cpp */; };
+		5329A4811CBF105A00A85E8A /* sixth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4801CBF105A00A85E8A /* sixth.cpp */; };
+		5329A4831CBF106600A85E8A /* seventh.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4821CBF106600A85E8A /* seventh.cpp */; };
+		5329A4851CBF107800A85E8A /* eighth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4841CBF107800A85E8A /* eighth.cpp */; };
+		5329A4871CBF108300A85E8A /* nineth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4861CBF108300A85E8A /* nineth.cpp */; };
+		5329A4891CBF109200A85E8A /* tenth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A4881CBF109200A85E8A /* tenth.cpp */; };
+		5329A48C1CBFB5A200A85E8A /* abstract.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5329A48A1CBFB5A200A85E8A /* abstract.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +37,20 @@
 /* Begin PBXFileReference section */
 		5329A4641CBE8A8900A85E8A /* ComputerProgrammingCPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ComputerProgrammingCPP; sourceTree = BUILT_PRODUCTS_DIR; };
 		5329A4671CBE8A8900A85E8A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5329A46F1CBE8BA400A85E8A /* string.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = string.cpp; sourceTree = "<group>"; };
+		5329A4701CBE8BA400A85E8A /* string.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = string.hpp; sourceTree = "<group>"; };
+		5329A4721CBE926100A85E8A /* first.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = first.cpp; sourceTree = "<group>"; };
+		5329A4731CBE926100A85E8A /* prototype.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = prototype.hpp; sourceTree = "<group>"; };
+		5329A4781CBE9E0300A85E8A /* second.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = second.cpp; sourceTree = "<group>"; };
+		5329A47A1CBEA07700A85E8A /* third.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = third.cpp; sourceTree = "<group>"; };
+		5329A47C1CBEEBE600A85E8A /* fourth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = fourth.cpp; sourceTree = "<group>"; };
+		5329A47E1CBF104F00A85E8A /* fifth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = fifth.cpp; sourceTree = "<group>"; };
+		5329A4801CBF105A00A85E8A /* sixth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sixth.cpp; sourceTree = "<group>"; };
+		5329A4821CBF106600A85E8A /* seventh.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = seventh.cpp; sourceTree = "<group>"; };
+		5329A4841CBF107800A85E8A /* eighth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = eighth.cpp; sourceTree = "<group>"; };
+		5329A4861CBF108300A85E8A /* nineth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = nineth.cpp; sourceTree = "<group>"; };
+		5329A4881CBF109200A85E8A /* tenth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tenth.cpp; sourceTree = "<group>"; };
+		5329A48A1CBFB5A200A85E8A /* abstract.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = abstract.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +83,31 @@
 		5329A4661CBE8A8900A85E8A /* ComputerProgrammingCPP */ = {
 			isa = PBXGroup;
 			children = (
+				5329A46E1CBE8AB300A85E8A /* src */,
 				5329A4671CBE8A8900A85E8A /* main.cpp */,
 			);
 			path = ComputerProgrammingCPP;
+			sourceTree = "<group>";
+		};
+		5329A46E1CBE8AB300A85E8A /* src */ = {
+			isa = PBXGroup;
+			children = (
+				5329A4841CBF107800A85E8A /* eighth.cpp */,
+				5329A47E1CBF104F00A85E8A /* fifth.cpp */,
+				5329A4721CBE926100A85E8A /* first.cpp */,
+				5329A47C1CBEEBE600A85E8A /* fourth.cpp */,
+				5329A4861CBF108300A85E8A /* nineth.cpp */,
+				5329A4731CBE926100A85E8A /* prototype.hpp */,
+				5329A4781CBE9E0300A85E8A /* second.cpp */,
+				5329A4821CBF106600A85E8A /* seventh.cpp */,
+				5329A4801CBF105A00A85E8A /* sixth.cpp */,
+				5329A46F1CBE8BA400A85E8A /* string.cpp */,
+				5329A4701CBE8BA400A85E8A /* string.hpp */,
+				5329A4881CBF109200A85E8A /* tenth.cpp */,
+				5329A47A1CBEA07700A85E8A /* third.cpp */,
+				5329A48A1CBFB5A200A85E8A /* abstract.cpp */,
+			);
+			path = src;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +166,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5329A4741CBE926100A85E8A /* first.cpp in Sources */,
+				5329A4711CBE8BA400A85E8A /* string.cpp in Sources */,
+				5329A4851CBF107800A85E8A /* eighth.cpp in Sources */,
+				5329A4811CBF105A00A85E8A /* sixth.cpp in Sources */,
 				5329A4681CBE8A8900A85E8A /* main.cpp in Sources */,
+				5329A4891CBF109200A85E8A /* tenth.cpp in Sources */,
+				5329A4791CBE9E0300A85E8A /* second.cpp in Sources */,
+				5329A4871CBF108300A85E8A /* nineth.cpp in Sources */,
+				5329A47F1CBF104F00A85E8A /* fifth.cpp in Sources */,
+				5329A47B1CBEA07700A85E8A /* third.cpp in Sources */,
+				5329A4831CBF106600A85E8A /* seventh.cpp in Sources */,
+				5329A48C1CBFB5A200A85E8A /* abstract.cpp in Sources */,
+				5329A47D1CBEEBE600A85E8A /* fourth.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +299,7 @@
 				5329A46D1CBE8A8900A85E8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

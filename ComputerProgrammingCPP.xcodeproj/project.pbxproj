@@ -51,6 +51,7 @@
 		5329A4861CBF108300A85E8A /* nineth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = nineth.cpp; sourceTree = "<group>"; };
 		5329A4881CBF109200A85E8A /* tenth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tenth.cpp; sourceTree = "<group>"; };
 		5329A48A1CBFB5A200A85E8A /* abstract.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = abstract.cpp; sourceTree = "<group>"; };
+		5329A48D1CBFFDFA00A85E8A /* rsc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = rsc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		5329A4661CBE8A8900A85E8A /* ComputerProgrammingCPP */ = {
 			isa = PBXGroup;
 			children = (
+				5329A48D1CBFFDFA00A85E8A /* rsc */,
 				5329A46E1CBE8AB300A85E8A /* src */,
 				5329A4671CBE8A8900A85E8A /* main.cpp */,
 			);
